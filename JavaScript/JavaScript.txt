@@ -1,0 +1,51 @@
+# JavaScript Basics
+
+Javascript is a light-weight, client-side object oriented programming language used for several websites for scripting the webpages.
+It was invented by Brendan Eich.
+
+all popular web browser support Javascript.
+
+# JavaScript Variable 
+1). let (Introduce in ES6 2015)
+-> Variable defined with let cannot be redeclared.
+-> let must be decalred before use.
+-> let variables defined with let have Block Scope.
+
+2). const
+-> Variable defined with const cannot be redeclared.
+-> const must be decalred before use.
+-> const variables defined with let have Block Scope.
+
+3). var
+-> Variable defined with var can be redeclared.
+
+# Javascript data types 
+
+
+
+
+# JavaScript Operators
+1). Assignment Operators (=)
+2). Arithmetic Operators
+
+
+# JavaScript Primitive Data types
+1). String :  
+2). Number :
+3). Boolean :
+4). Undefined :
+5). NULL :
+
+# JavaScript Non-Premitive Data types
+1). Object 
+2). Array
+3). RegExp
+
+
+# JavaScript Objects : Object have some property and method. Object can store multiple values at a time. value will be access through .(dot) operator.
+
+
+
+
+
+
